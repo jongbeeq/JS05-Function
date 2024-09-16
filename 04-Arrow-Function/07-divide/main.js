@@ -1,0 +1,1 @@
+let divSeven = num => num % 7 === 0;
